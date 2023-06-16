@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,flare.starcat.eu.org,Emby // StaiCat
 DOMAIN-SUFFIX,cf.freetz.top,Emby // Magic Cloud魔法
 DOMAIN-suffix,bili.bili.rip,Emby // hxd
 DOMAIN-SUFFIX,play.charontv.com,Emby // 卡戎
-DOMAIN-KEYWORD,162.19.247.76.
+DOMAIN-KEYWORD,162.19.247.
 IP-CIDR,38.64.72.148/24
 IP-CIDR,61.172.224.166/80
 IP-CIDR,13.226.251.204/80
