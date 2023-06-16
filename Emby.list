@@ -5,18 +5,3 @@ HOST-SUFFIX,embymv.tk
 
 # > 流媒体emby-bgk服务器
 HOST-SUFFIX,c.emby.pro
-
-# > 流媒体***服务器
-HOST-SUFFIX,789.123456.al
-HOST-SUFFIX,us.txrui.top
-HOST-SUFFIX,sg.imetyou.top
-HOST-SUFFIX,uni8rtmp.tulix.tv
-HOST-SUFFIX,ju.dog
-HOST-SUFFIX,misty.ltd
-HOST-SUFFIX,emby.agon.cf
-HOST-SUFFIX,film.goodisp.org
-HOST-SUFFIX,flare.starcat.eu.org
-HOST-SUFFIX,cf.freetz.top
-HOST-SUFFIX,bili.bili.rip
-ip-cidr, 38.64.72.148/24
-ip-cidr, 162.19.247.76/22222
