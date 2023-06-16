@@ -133,18 +133,3 @@ DOMAIN-SUFFIX,embymv.tk
 
 # > 流媒体emby-bgk服务器
 DOMAIN-SUFFIX,c.emby.pro
-
-# > 流媒体***服务器
-DOMAIN-SUFFIX,789.123456.al
-DOMAIN-SUFFIX,us.txrui.top
-DOMAIN-SUFFIX,sg.imetyou.top
-DOMAIN-SUFFIX,uni8rtmp.tulix.tv
-DOMAIN-SUFFIX,ju.dog
-DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,emby.agon.cf
-DOMAIN-SUFFIX,film.goodisp.org
-DOMAIN-SUFFIX,flare.starcat.eu.org
-DOMAIN-SUFFIX,cf.freetz.top
-DOMAIN-SUFFIX,bili.bili.rip
-ip-cidr, 38.64.72.148/24
-ip-cidr, 162.19.247.76/22222
