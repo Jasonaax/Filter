@@ -127,4 +127,17 @@ DOMAIN,cc.ccemby.tk
 # > 流媒体Nebula服务器
 DOMAIN,direct.nebula-emby.com
 
+# > 流媒体emby-peahc服务器
+DOMAIN,embymv.me
+DOMAIN-SUFFIX,embymv.tk
 
+# > 流媒体emby-bgk服务器
+DOMAIN-SUFFIX,c.emby.pro
+
+# > 流媒体***服务器
+DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,us.txrui.top
+DOMAIN-SUFFIX,sg.imetyou.top
+DOMAIN-SUFFIX,uni8rtmp.tulix.tv
+ip-cidr, 38.64.72.148/24
+ip-cidr, 162.19.247.76/22222
